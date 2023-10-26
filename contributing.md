@@ -1,12 +1,4 @@
 
-We welcome and appreciate your contributions to [Project Name]. By contributing, you help us build a better community and improve our project.
-
-Before you start, please take a moment to read our guidelines:
-
-## Code of Conduct
-
-Please review our [Code of Conduct](CODE_OF_CONDUCT.md). As a contributor, you are expected to adhere to it. 
-
 ## How to Contribute
 
 1. Fork the repository to your GitHub account.
